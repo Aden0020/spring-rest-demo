@@ -41,6 +41,8 @@ public class HelloController {
         public GreetingResponse() {
         }
 
+        //hej
+
         public String getMessage() {
             return message;
         }
